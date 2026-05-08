@@ -1,0 +1,17 @@
+{
+  "name": "exam4_mcgarrah",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node chalkDemo.js"
+  },
+  "keywords": [],
+  "author": "Jalen McGarrah",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
